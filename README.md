@@ -2,6 +2,7 @@
 <h3 align="center">A passionate fullstack dotnet developer</h3>
 
 - 📫 How to reach me **administrator@assasinos.me**
+- 📫 How to reach me **assasinoskeer@gmail.com**
 
 
 <p align="left">
