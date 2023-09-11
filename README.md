@@ -12,21 +12,24 @@
 <details>
   <summary><h2>📒 Current Projects</h2></summary>
   
-[![DBDLE-FrontEnd](https://github-readme-stats.vercel.app/api/pin/?username=assasinos&repo=DBDLE-FrontEnd&theme=radical)](https://github.com/assasinos/DBDLE-FrontEnd)
-[![DBDLE-BackEnd](https://github-readme-stats.vercel.app/api/pin/?username=assasinos&repo=DBDLE-BackEnd&theme=radical)](https://github.com/assasinos/DBDLE-BackEnd)
+[![DBDLE-FrontEnd](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=DBDLE-FrontEnd&theme=radical)](https://github.com/assasinos/DBDLE-FrontEnd)
+[![DBDLE-BackEnd](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=DBDLE-BackEnd&theme=radical)](https://github.com/assasinos/DBDLE-BackEnd)
+
+[![Overlay-library](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=Overlay-Library&theme=radical)](https://github.com/assasinos/Overlay-Library)
+
+
   
 </details>
 
 <details>
   <summary><h2>📘 My Most Relevant Projects</h2></summary>
   
-<!-- Temporary till my vercel starts working -->
 
-[![DBDLE-FrontEnd](https://github-readme-stats.vercel.app/api/pin/?username=assasinos&repo=DBDLE-FrontEnd&theme=radical)](https://github.com/assasinos/DBDLE-FrontEnd)
-[![DBDLE-BackEnd](https://github-readme-stats.vercel.app/api/pin/?username=assasinos&repo=DBDLE-BackEnd&theme=radical)](https://github.com/assasinos/DBDLE-BackEnd)
-[![ELearnApp](https://github-readme-stats.vercel.app/api/pin/?username=assasinos&repo=ELearnApp&theme=radical)](https://github.com/assasinos/ELearnApp)
-[![Skia Twitch Chat](https://github-readme-stats.vercel.app/api/pin/?username=assasinos&repo=Skia-Twitch-Chat&theme=radical)](https://github.com/assasinos/Skia-Twitch-Chat)
-[![SRTTranslator](https://github-readme-stats.vercel.app/api/pin/?username=assasinos&repo=SRTTranslator&theme=radical)]([https://github.com/assasinos/Skia-Twitch-Chat](https://github.com/assasinos/SRTTranslator))
+[![DBDLE-FrontEnd](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=DBDLE-FrontEnd&theme=radical)](https://github.com/assasinos/DBDLE-FrontEnd)
+[![DBDLE-BackEnd](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=DBDLE-BackEnd&theme=radical)](https://github.com/assasinos/DBDLE-BackEnd)
+[![ELearnApp](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=ELearnApp&theme=radical)](https://github.com/assasinos/ELearnApp)
+[![Skia Twitch Chat](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=Skia-Twitch-Chat&theme=radical)](https://github.com/assasinos/Skia-Twitch-Chat)
+[![SRTTranslator](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=SRTTranslator&theme=radical)]([https://github.com/assasinos/Skia-Twitch-Chat](https://github.com/assasinos/SRTTranslator))
 
 
   
@@ -87,7 +90,7 @@
 <details>
   <summary><h2>📊 Github Stats</h2></summary>
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=assasinos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-assasinos.vercel.app/api/top-langs/?username=assasinos&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
