@@ -13,7 +13,7 @@
   <summary><h2>📒 Current Projects</h2></summary>
 
 [![Overlay-library](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=Overlay-Library&theme=radical)](https://github.com/assasinos/Overlay-Library)
-
+[![Simple-Web-Server](https://github-readme-stats-assasinos.vercel.app/api/pin/?username=assasinos&repo=Simple-Web-Server&theme=radical)](https://github.com/assasinos/Simple-Web-Server)
 
   
 </details>
